@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "productId": "BertinSoft.StaffControl",
+  "productName": "BertinSoft StaffControl",
+  "channel": "stable",
+  "releaseId": "staffcontrol-0.1.105_setup-0.1.4_updater-0.1.0_launcher-0.1.1",
+  "publishedAtUtc": "2026-08-29T18:52:57.2561208+00:00",
+  "required": false,
+  "minimumInstalledVersion": "0.0.0",
+  "minimumUpdaterVersion": "0.1.0",
+  "packageFormatVersion": 1,
+  "platform": "windows",
+  "architecture": "win-x64",
+  "components": [
+    {
+      "id": "BertinSoft.StaffControl",
+      "displayName": "BertinSoft StaffControl",
+      "version": "0.1.105",
+      "minimumInstalledVersion": "0.0.0",
+      "packageFile": "packages/staffcontrol-0.1.105_setup-0.1.4_updater-0.1.0_launcher-0.1.1.zip",
+      "relativePackageUrl": "https://github.com/BertinSoft/updates/releases/download/BertinSoft.StaffControl--staffcontrol-0.1.105_setup-0.1.4_updater-0.1.0_launcher-0.1.1/BertinSoft.StaffControl-staffcontrol-0.1.105_setup-0.1.4_updater-0.1.0_launcher-0.1.1.zip",
+      "packageSize": 221493068,
+      "packageSha256": "8C84E0D23F117CCB903A56865A87BAD7DE90829171E4818FDF71AF5B6DAD6EA3",
+      "installRole": "full-package",
+      "target": "installer"
+    }
+  ],
+  "signature": {
+    "algorithm": "ECDsaP256Sha256",
+    "keyId": "bertinsoft-update-primary-2026",
+    "signatureFile": "manifest.sig",
+    "signedContent": "canonical-json-sha256"
+  },
+  "releaseNotes": "Interner BertinSoft Online-Release."
+}
