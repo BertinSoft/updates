@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "productId": "BertinSoft.TerminControl",
+  "productName": "BertinSoft TerminControl",
+  "channel": "stable",
+  "releaseId": "server-0.6.75_client-0.3.11_setup-0.1.44_updater-0.1.1",
+  "publishedAtUtc": "2026-08-29T18:42:34.905488+00:00",
+  "required": false,
+  "minimumInstalledVersion": "0.0.0",
+  "minimumUpdaterVersion": "0.1.1",
+  "packageFormatVersion": 1,
+  "platform": "windows",
+  "architecture": "win-x64",
+  "components": [
+    {
+      "id": "BertinSoft.TerminControl",
+      "displayName": "BertinSoft TerminControl",
+      "version": "0.6.75",
+      "minimumInstalledVersion": "0.0.0",
+      "packageFile": "packages/server-0.6.75_client-0.3.11_setup-0.1.44_updater-0.1.1.zip",
+      "relativePackageUrl": "https://github.com/BertinSoft/updates/releases/download/BertinSoft.TerminControl--server-0.6.75_client-0.3.11_setup-0.1.44_updater-0.1.1/BertinSoft.TerminControl-server-0.6.75_client-0.3.11_setup-0.1.44_updater-0.1.1.zip",
+      "packageSize": 528843458,
+      "packageSha256": "8F8A81598EA889ADABCA29790EDA8DAA2836EB34C5289C17E88BE8776A64F7B1",
+      "installRole": "full-package",
+      "target": "installer"
+    }
+  ],
+  "signature": {
+    "algorithm": "ECDsaP256Sha256",
+    "keyId": "bertinsoft-update-primary-2026",
+    "signatureFile": "manifest.sig",
+    "signedContent": "canonical-json-sha256"
+  },
+  "releaseNotes": "Interner BertinSoft Online-Release."
+}
