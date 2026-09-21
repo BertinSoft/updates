@@ -3,8 +3,8 @@
   "productId": "BertinSoft.TerminControl",
   "productName": "BertinSoft TerminControl",
   "channel": "stable",
-  "releaseId": "server-0.6.113_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable",
-  "publishedAtUtc": "2026-09-21T09:18:25.7985949+00:00",
+  "releaseId": "server-0.6.114_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable",
+  "publishedAtUtc": "2026-09-21T22:10:41.054515+00:00",
   "required": false,
   "minimumInstalledVersion": "0.6.106",
   "minimumUpdaterVersion": "0.1.17",
@@ -15,12 +15,12 @@
     {
       "id": "BertinSoft.TerminControl",
       "displayName": "BertinSoft TerminControl",
-      "version": "0.6.113",
+      "version": "0.6.114",
       "minimumInstalledVersion": "0.6.106",
-      "packageFile": "packages/server-0.6.113_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable.zip",
-      "relativePackageUrl": "https://github.com/BertinSoft/updates/releases/download/BertinSoft.TerminControl--server-0.6.113_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable/BertinSoft.TerminControl-server-0.6.113_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable.zip",
-      "packageSize": 535358576,
-      "packageSha256": "B47D9CE11EA52F0D49DBF1F2C83BE74F18FB6EE9A2CB789D1EF39D9DFAC15DCA",
+      "packageFile": "packages/server-0.6.114_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable.zip",
+      "relativePackageUrl": "https://github.com/BertinSoft/updates/releases/download/BertinSoft.TerminControl--server-0.6.114_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable/BertinSoft.TerminControl-server-0.6.114_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable.zip",
+      "packageSize": 535361567,
+      "packageSha256": "285A3A42FABFE9629EFAD2CBDFEC6499F9E10283CDB7902DD3DF49F27E3DAFA8",
       "installRole": "full-package",
       "target": "installer"
     }
@@ -28,7 +28,7 @@
   "signature": {
     "algorithm": "ECDsaP256Sha256",
     "keyId": "bertinsoft-update-primary-2026",
-    "signatureFile": "manifest.sig",
+    "signatureFile": "github-provider-0.6.114.manifest.sig",
     "signedContent": "canonical-json-sha256"
   },
   "releaseNotes": "Interner BertinSoft Online-Release."
