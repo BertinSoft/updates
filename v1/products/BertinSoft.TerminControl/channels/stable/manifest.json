@@ -3,8 +3,8 @@
   "productId": "BertinSoft.TerminControl",
   "productName": "BertinSoft TerminControl",
   "channel": "stable",
-  "releaseId": "server-0.6.110_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable",
-  "publishedAtUtc": "2026-09-15T22:41:23.76587+00:00",
+  "releaseId": "server-0.6.111_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable",
+  "publishedAtUtc": "2026-09-21T00:21:31.5107834+00:00",
   "required": false,
   "minimumInstalledVersion": "0.6.106",
   "minimumUpdaterVersion": "0.1.17",
@@ -15,12 +15,12 @@
     {
       "id": "BertinSoft.TerminControl",
       "displayName": "BertinSoft TerminControl",
-      "version": "0.6.110",
+      "version": "0.6.111",
       "minimumInstalledVersion": "0.6.106",
-      "packageFile": "packages/server-0.6.110_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable.zip",
-      "relativePackageUrl": "https://github.com/BertinSoft/updates/releases/download/BertinSoft.TerminControl--server-0.6.110_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable/BertinSoft.TerminControl-server-0.6.110_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable.zip",
-      "packageSize": 535356964,
-      "packageSha256": "ED64C5CF52CD5627674D13BDABC8440EDB7BC024C16CD4195F904F809145F741",
+      "packageFile": "packages/server-0.6.111_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable.zip",
+      "relativePackageUrl": "https://github.com/BertinSoft/updates/releases/download/BertinSoft.TerminControl--server-0.6.111_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable/BertinSoft.TerminControl-server-0.6.111_client-0.3.19_setup-0.1.81_updater-0.1.19_channel-stable.zip",
+      "packageSize": 535357044,
+      "packageSha256": "9C3014E74D8D0D706199307137DAB5C0B896FF131600D0AF2252B62849DFD699",
       "installRole": "full-package",
       "target": "installer"
     }
