@@ -3,8 +3,8 @@
   "productId": "BertinSoft.StaffControl",
   "productName": "BertinSoft StaffControl",
   "channel": "stable",
-  "releaseId": "staffcontrol-0.1.125_setup-0.1.19_updater-0.1.4_launcher-0.1.4",
-  "publishedAtUtc": "2026-09-30T20:16:27.505023+00:00",
+  "releaseId": "staffcontrol-0.1.126_setup-0.1.21_updater-0.1.4_launcher-0.1.4",
+  "publishedAtUtc": "2026-09-30T23:00:23.8413492+00:00",
   "required": false,
   "minimumInstalledVersion": "0.0.0",
   "minimumUpdaterVersion": "0.0.0",
@@ -15,12 +15,12 @@
     {
       "id": "BertinSoft.StaffControl",
       "displayName": "BertinSoft StaffControl",
-      "version": "0.1.125",
+      "version": "0.1.126",
       "minimumInstalledVersion": "0.0.0",
-      "packageFile": "packages/staffcontrol-0.1.125_setup-0.1.19_updater-0.1.4_launcher-0.1.4.zip",
-      "relativePackageUrl": "https://github.com/BertinSoft/updates/releases/download/BertinSoft.StaffControl--staffcontrol-0.1.125_setup-0.1.19_updater-0.1.4_launcher-0.1.4/BertinSoft.StaffControl-staffcontrol-0.1.125_setup-0.1.19_updater-0.1.4_launcher-0.1.4.zip",
-      "packageSize": 221712770,
-      "packageSha256": "31B3B0BA81521365C763A253E55068C08911703EE9A3ACBA0229F93CEAB075F4",
+      "packageFile": "packages/staffcontrol-0.1.126_setup-0.1.21_updater-0.1.4_launcher-0.1.4.zip",
+      "relativePackageUrl": "https://github.com/BertinSoft/updates/releases/download/BertinSoft.StaffControl--staffcontrol-0.1.126_setup-0.1.21_updater-0.1.4_launcher-0.1.4/BertinSoft.StaffControl-staffcontrol-0.1.126_setup-0.1.21_updater-0.1.4_launcher-0.1.4.zip",
+      "packageSize": 221713793,
+      "packageSha256": "1ED93DC8B43171BFF5A433912CF1AE689B1F33347B2A5BCFFC542D8C4DB65092",
       "installRole": "full-package",
       "target": "installer"
     }
